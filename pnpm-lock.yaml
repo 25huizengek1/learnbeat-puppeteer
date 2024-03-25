@@ -6,7 +6,7 @@ settings:
 
 dependencies:
   ip:
-    specifier: '>=2.0.1'
+    specifier: ^2.0.1
     version: 2.0.1
   puppeteer:
     specifier: ^22.5.0
